@@ -78,6 +78,7 @@ a.customizedBtn-default:hover {
 .customizedContainer {
 	background-color: #e9e9e9 !important;
 	min-height: 768px;
+        width: 92%;
 }
 
 .NewsPositiono {
@@ -114,7 +115,8 @@ background-color: #e9e9e9;
 }
 
 .socialnetworkArea {
-    margin-bottom: 20px;
+    margin: inherit;
+    margin-bottom: 20px !important;
 }
 
 .customizedUl {
@@ -164,6 +166,12 @@ background-color: #e9e9e9;
 
 .TA_cdsscrollingravewide {
     margin-bottom: 6px;
+}
+
+.tripAdvisor-comments {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 50px;
 }
 
 div#CDSSCROLLINGRAVE {
