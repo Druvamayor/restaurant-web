@@ -1,0 +1,576 @@
+body {
+	background-color: rgb(248, 248, 248)!important;
+	text-align: center;
+}
+
+h1, h2, h3 {
+       background-color: orange;
+       border-radius: 4px;
+       box-shadow: 1px 1px 0.5px rgba(0,0,0,0.5);
+       color: #F1F1F1;
+       font-family: 'Roboto', sans-serif !important;
+       padding: 15px;
+       text-shadow: -1px 2px 4px rgba(0,0,0,0.5);
+}
+
+h1 {
+       font-size: 24px !important;    
+}
+
+h2 {
+       font-size: 20px !important;
+}
+
+h3 {
+       font-size: 16px !important;
+}
+
+p {
+       font-family: 'Roboto', sans-serif !important;
+       font-size: 16px; 
+       font-weight: 100;
+       text-align:justify !important;
+}
+
+li {
+    list-style: none;
+}
+
+button.close {
+    background: #e37425 !important;
+}
+
+button.close:hover {
+    background: #003C32 !important;
+    opacity: 1;
+}
+
+.close {
+    color: #fff !important;
+    opacity: 1;
+}
+
+
+a.customizedBtn-default {
+}
+
+a.customizedBtn-default {
+    color: rgb(0, 101, 84);
+    text-decoration: none;
+    -webkit-text-shadow: -1px 1px 1px rgba(255, 255, 255, 0.45);
+    -moz-text-shadow: -1px 1px 1px rgba(255, 255, 255, 0.45);
+    text-shadow: -1px 1px 1px rgba(255, 255, 255, 0.45);
+}
+
+a.customizedBtn-default:hover {
+    color: rgb(0, 101, 84);
+    -webkit-text-shadow: -1px 1px 0px rgba(255, 255, 255, 1);
+    -moz-text-shadow: -1px 1px 0px rgba(255, 255, 255, 1);
+    text-shadow: -1px 1px 0px rgba(255, 255, 255, 1);
+}
+
+.boxshadow {
+    -webkit-box-shadow: 0 3px 3px 0.5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 3px 3px 0.5px rgba(0,0,0,0.2);
+    box-shadow: 0 3px 3px 0.5px rgba(0,0,0,0.2);
+}
+
+.customizedContainer {
+	background-color: #e9e9e9 !important;
+	min-height: 768px;
+        width: 92%;
+}
+
+.NewsPositiono {
+Background-color: #f2f2f2;
+}
+
+.mainHeader-styling {
+background-color: #e9e9e9;
+}
+
+.CustomizablePosition_1 {
+    background-color: #E9E9E9;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+.customizedRow {
+	margin-bottom: 15px;
+}
+
+.Position_2_custom_Area {
+    background-color: #E2E2E2 !important;
+    border-radius: 4px;
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+    min-height: 100px !important; 
+    margin-bottom: 40px;
+    padding: 36px !important;
+    text-align: -webkit-center;
+}
+
+.linkContainer {
+    Padding: 0 17%;
+}
+
+.socialnetworkArea {
+    margin: inherit;
+    margin-bottom: 20px !important;
+}
+
+.customizedUl {
+    padding: 0;
+}
+
+.socialnetworkArea ul li {
+    display: inline-block;
+}
+
+.circle {
+    background: #e37425;
+    border-radius: 50%;
+    -moz-border-radius: 50%; 
+    -webkit-border-radius: 50%;
+    display: inline-block; 
+    height: 32px;
+    margin: 0 6px 10px 6px;
+    padding: 4px 0;
+    width: 32px;
+}
+
+.circle:hover {
+    background: #006554;
+}
+
+.customizedHr {
+    -webkit-box-shadow: 0 1px 1px 0.5px rgba(192,194,196,1);
+    -moz-box-shadow: 0 1px 1px 0.5px rgba(192,194,196,1);
+    box-shadow: 0 1px 1px 0.5px rgba(192,194,196,1);
+    margin-top: 15px;
+    margin-bottom: 15px !important;
+}
+
+.ModalPosition {
+    margin-bottom: 15px;
+}
+
+.TA_excellent, .tripAdvisor-Botton {
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0 3px 3px 0.5px rgba(0,0,0,0.2);
+    margin-bottom: 8px;
+    min-height: 170px;
+    padding: 8px;
+}
+
+.TA_cdsscrollingravewide {
+    margin-bottom: 6px;
+}
+
+.tripAdvisor-comments {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 50px;
+}
+
+div#CDSSCROLLINGRAVE {
+    margin: 0 auto !important;
+}
+
+#CDSSCROLLINGRAVE.wide {
+    width: 60% !important;
+}
+
+#CDSWIDEXC {
+    margin: 10px auto !important;
+}
+
+.Position_3_Area {
+    margin-bottom: 55px;
+} 
+
+.PortalMaha_restaurant {
+    background-color: #006554;
+}
+
+.PortalMaha_academy {
+    background-color: #e27526;
+}
+
+.PortalMaha_restaurant, .PortalMaha_academy {
+    border-radius: 4px;
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px;
+    margin-bottom: 30px; 
+}
+
+.PortalHeader {
+    height: 80px;
+    padding: 5px;
+}
+
+.PortalPictures .row .PortalPictures_thumbnail {
+    border-radius: 2px;
+    -moz-border-radius: 2px; 
+    -webkit-border-radius: 2px;
+    display: inline-block;
+    height: 140px;
+    margin-bottom: 4px;
+    padding: 5px;
+    width: 140px;
+}
+
+.Position_2_custom_Area,
+.PortalHeader, 
+.PortalPictures .row .PortalPictures_thumbnail {
+    background-color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.PortalHeader, 
+.PortalPictures .row .PortalPictures_thumbnail {
+    padding: 5px !important;
+}
+
+.Position_2_custom_Area img,
+.PortalHeader img, 
+.PortalPictures .row .PortalPictures_thumbnail img {
+    vertical-align: inherit !important;
+}
+
+.PortalHeader,
+.PortalLink,
+.PortalPictures {
+    border-radius: 2px;
+    -moz-border-radius: 2px; 
+    -webkit-border-radius: 2px;
+}
+
+a.PortalLink {
+    color: #E37425;
+    font-family: 'Niconne', cursive;
+    font-size: xx-large;    
+}
+
+footer {
+	background-color: #252A32;
+}
+
+footer ul {
+	margin-top: 7px;
+	margin-bottom: 7px;
+	padding-left: 0; 
+}
+
+footer ul li {
+	color: rgb(233, 233, 233);
+	display: inline-block;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-size: smaller;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: -1px;
+	-webkit-text-shadow: -1px 1px 0px rgb(0, 0, 0);
+	-moz-text-shadow: -1px 1px 0px rgb(0, 0, 0);
+	text-shadow: -1px 1px 0px rgb(0, 0, 0);
+	vertical-align: middle;
+}
+
+footer ul li.authorcreditPosition {
+	margin-right: 0px;
+}
+
+footer ul li.authorlogoPosition {
+	margin: 0 0;
+	padding-top: 4px; 
+}
+
+
+/*------------------------ K2'S CUSTOMIZED CLASSESS --------------------------*/
+
+div.itemImageBlock > span.itemImage a.modal {
+        display: block !important;
+        position: inherit !important;
+}
+
+#sbox-overlay {
+        background-color: #252a32 !important;
+        opacity: 1 !important;
+}
+
+/*------------------------ K2'S CUSTOMIZED CLASSESS END ----------------------*/
+
+
+footer ul li a > div.author {
+	background-image: url(/web/20171028223723im_/http://www.mahaveg.co/templates/mahaveghome/images/footer/authorlogo_2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 36px;
+	width: 26px;
+}
+
+/* The Editor's Templates Start */
+
+div#imageZone img {
+       display: block;
+       margin: 0 auto;
+       max-width: 100%;
+       height: auto;
+}
+
+p#description-separator {
+       border-left: 3px dotted orange;
+       padding: 10px;
+}
+
+/* The Editor's Templates End */
+
+/* Customized Media Queries */
+
+@media (min-width: 0px) {
+    .PortalHeader,
+    .PortalLink,
+    .PortalPictures {
+    	float: none !important;
+    	margin: 10px auto;
+    	width: 96% !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 1199px) {
+     .navbar-header {
+        float: right;
+    }
+    
+    .container-fluid>.navbar-collapse {
+        background-color: rgb(233, 233, 233);
+        border-bottom-left-radius: 60px;
+        border-top-right-radius: 60px;
+        border-bottom-right-radius: 60px;
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.26);
+        float: left;
+        font-family: 'roboto';
+        position: relative;
+        margin: 30px auto;
+        width: 76%;
+    }
+    
+    .navbar-header, .container-fluid>.navbar-collapse {
+        display: inline-block !important;
+        font-size: small;
+        text-align: center;
+        vertical-align: middle;
+    }
+    
+    .container-fluid>.navbar-collapse .nav li {
+        display: inline-block !important;
+    }
+    
+    .container-fluid>.navbar-collapse .nav li a {
+        color: #003C32 !important;
+    }
+    
+    ul.dropdown-menu {
+        background-color: #E9E9E9;
+    }
+    
+    ul.dropdown-menu li {
+        display: block;
+        width: 100%;
+    }  
+    
+    ul.dropdown-menu li a:hover {
+        background: #ADD010 !important;
+        color: #ffffff;
+        
+    }
+      
+    .container-fluid>.navbar-collapse .nav li a:hover,
+    .container-fluid>.navbar-collapse .nav li a:focus,
+    .container-fluid>.navbar-collapse .nav li:active {
+        background-color: #FF7300;
+        color: #FFFFFF !important;
+    }    
+    
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .Position_2_custom_Area {
+    padding:6px !important;
+    }
+/* Responsive Roksproket */    
+.layout-slideshow2 .sprocket-features-img-list {
+ height: 420px;
+}
+.layout-slideshow2 .sprocket-features-content {
+ background:rgb(168, 205, 0)!important;
+ bottom:none !important;
+ top:120px;
+ margin:0 auto !important;
+ max-height:386px;
+ width:auto !important;
+}
+.layout-slideshow2 .sprocket-features-padding {
+ padding: 0 5px 25px 5px !important;
+}
+
+.layout-slideshow2 .sprocket-features-title, .layout-slideshow2 .sprocket-features-desc {
+ background-color:transparent !important;
+}
+
+.layout-slideshow2 .sprocket-features-desc {
+ display:block !important;
+ text-align:justify !important;
+}
+
+sprocket-features-arrows {
+ bottom:85px;
+ position: relative !important;
+}
+/* Responsive Roksproket end */
+ /* Anothers Attributes */
+ h1, h2, h3, h4, h5, h6 {
+ box-shadow:none !important;
+ }
+ /* Anothers Attributes end */    
+}
+
+@media (min-width: 446px)and (max-width: 595px) {
+     .PortalPictures {
+        width: 427px !important; 
+    }
+}
+
+ @media (min-width: 768px){
+    .navbar-header {
+        float: right;
+        width: 24%;
+    }
+    
+    .container-fluid>.navbar-collapse {
+        background-color: rgb(233, 233, 233);
+        border-bottom-left-radius: 60px;
+        border-top-right-radius: 60px;
+        border-bottom-right-radius: 60px;
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.26);
+        float: left;
+        font-family: 'roboto';
+        position: relative;
+        margin: 30px auto;
+        width: 76%;
+    }
+    
+    .navbar-header, .container-fluid>.navbar-collapse {
+        display: inline-block !important;
+        font-size: small;
+        text-align: center;
+        vertical-align: middle;
+    }
+    
+    .container-fluid>.navbar-collapse .nav li {
+        display: inline-block !important;
+    }
+    
+    .container-fluid>.navbar-collapse .nav li a {
+        color: #003C32 !important;
+    }
+    
+    ul.dropdown-menu {
+        background-color: #E9E9E9;
+    }
+    
+    ul.dropdown-menu li {
+        display: block;
+        width: 100%;
+    }  
+    
+    ul.dropdown-menu li a:hover {
+        background: #ADD010 !important;
+        color: #ffffff;
+        
+    }
+      
+    .container-fluid>.navbar-collapse .nav li a:hover,
+    .container-fluid>.navbar-collapse .nav li a:focus,
+    .container-fluid>.navbar-collapse .nav li:active {
+        background-color: #FF7300;
+        color: #FFFFFF !important;
+    }
+    
+    .PortalMaha_restaurant div.linkContainer ul.navbar-nav,
+    .PortalMaha_academy div.linkContainer ul.navbar-nav {
+        float: none !important;
+        margin: none !important;
+    }
+    
+    .container-fluid>.navbar-collapse .nav {
+        display: inline-block !important;
+    }
+  
+    .customizedContainer .navbar {
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+  
+    .PortalMaha_restaurant div.linkContainer ul.navbar-nav li,
+    .PortalMaha_academy div.linkContainer ul.navbar-nav li {
+        float: none !important;
+  }
+}
+
+@media (min-width: 992px) {
+    .PortalMaha_restaurant, .PortalMaha_academy {
+    	margin: 0 1% !important;
+    	width: 48% !important;
+}
+
+    .PortalPictures .row .PortalPictures_thumbnail {
+    	float: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbar-header {
+       width: 20%;
+       float: left;
+    }
+    
+ul.nav.navbar-nav {
+    width: 80%;
+    float: right;
+    }
+    
+.navbar-header, .navbar-nav {
+    display: inline;
+    vertical-align: middle;
+    max-width: 100%;
+    }
+    
+    .PortalPictures {
+        width: 427px !important;
+    }
+}
+/*
+     FILE ARCHIVED ON 22:37:23 Oct 28, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:21:27 Aug 26, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.641
+  exclusion.robots.policy: 0.611
+  RedisCDXSource: 4.455
+  captures_list: 174.079
+  LoadShardBlock: 96.139 (3)
+  load_resource: 72.411
+  CDXLines.iter: 62.186 (3)
+  esindex: 0.033
+  PetaboxLoader3.resolve: 42.328
+  PetaboxLoader3.datanode: 105.88 (4)
+*/
