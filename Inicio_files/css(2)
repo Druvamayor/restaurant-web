@@ -1,0 +1,30 @@
+/* latin */
+@font-face {
+  font-family: 'Handlee';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Handlee Regular'), local('Handlee-Regular'), url(https://web.archive.org/web/20171014123536im_/http://fonts.gstatic.com/s/handlee/v6/6AfIXNH5pZ1Jj_pfExPOWQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/*
+     FILE ARCHIVED ON 12:35:36 Oct 14, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:21:32 Aug 26, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 814.942
+  exclusion.robots: 0.166
+  exclusion.robots.policy: 0.155
+  RedisCDXSource: 1.458
+  esindex: 0.012
+  LoadShardBlock: 198.829 (3)
+  PetaboxLoader3.datanode: 118.275 (4)
+  CDXLines.iter: 61.456 (3)
+  load_resource: 59.137
+  PetaboxLoader3.resolve: 46.455
+*/

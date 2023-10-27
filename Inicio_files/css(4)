@@ -1,0 +1,38 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merienda'), local('Merienda-Regular_0_wt'), url(https://web.archive.org/web/20171016180757im_/http://fonts.gstatic.com/s/merienda/v5/xsqI_wXnZDaQF3E9i3RnFxTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merienda'), local('Merienda-Regular_0_wt'), url(https://web.archive.org/web/20171016180757im_/http://fonts.gstatic.com/s/merienda/v5/jzdtQ30m6V77-C5vjVpEXPesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/*
+     FILE ARCHIVED ON 18:07:57 Oct 16, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:21:31 Aug 26, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.017
+  captures_list: 428.777
+  PetaboxLoader3.resolve: 23.11
+  exclusion.robots.policy: 0.21
+  RedisCDXSource: 1.256
+  LoadShardBlock: 252.802 (3)
+  PetaboxLoader3.datanode: 94.745 (4)
+  load_resource: 86.378
+  exclusion.robots: 0.226
+  CDXLines.iter: 41.176 (3)
+*/
